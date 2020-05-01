@@ -15,3 +15,7 @@ Followed with a dropdown form and a submit button where is says "Let's play!".
 This we did through linking the HTML to the javascript by the GetElementById.
 
 6. After access to both choices was provided we went on writing the if else code for the different outcomes and console.logged them.
+
+# GITHUB
+To arrange and collaborate on Github has taken up 90% of the time we had up to the deadline of this project.
+We had problems cloning, pulling and pushing into different branches. Which resulted in only one branch and less time on figuring out and writing our javascript code.
