@@ -10,7 +10,11 @@ const submit = function () {
     computerChoice = CHOICES[Math.floor(Math.random() * CHOICES.length)]; 
 }
 
-function getSelectValue ()
+function getGamerValue ()
 {
-    let SelectedValue = document.getElementById("gamerchoice").value;
+    let gamerValue = document.getElementById("gamerchoice").value;
+}
+
+if {
+    
 }
