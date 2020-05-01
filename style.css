@@ -35,7 +35,8 @@ h2 {
   font-family: "Bellota", Arial;
   font-size: 30px;
   padding: 6px 16px;
-  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 90px;
 }
 
 input[type=button] {
