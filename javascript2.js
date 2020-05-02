@@ -16,8 +16,8 @@ function myFunc() {
  
     let selectedValue = document.getElementById("gamerchoice").value;
  
-    console.log(computerChoice + " : Computers choice")
-    console.log(selectedValue + " : Gamers choice")
+    console.log("Computers choice : " + computerChoice)
+    console.log("Gamers choice : " + selectedValue)
 
     function compareValues() {
         if (computerChoice === selectedValue) {
